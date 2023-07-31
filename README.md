@@ -1,4 +1,4 @@
-Hi I'm Jonah! Welcome to my profile! 
+:wave: Hi I'm Jonah! Welcome to my profile!
 
 
 Here are some Languages I know:
